@@ -36,7 +36,7 @@ int main()
                     a+=0;
                     //cout<<"You was not thinking any number between 1-15. Please try again..."<<endl;
                     cout<<"Your number is " <<a<<endl;
-                }
+                } 
                     
             }
             else if(ui == 'n') 
