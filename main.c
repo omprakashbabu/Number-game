@@ -67,7 +67,7 @@ int main()
             cout<<"If yes type 'y'. If no type 'n'"<<endl;
             cin>>ui;
             if(ui == 'y')
-            {
+            { 
                 a+=4;
                 cout<<"Check if your number belongs to this [8,9,10,11,12,13,14,15]"<<endl;
                 cout<<"If yes type 'y'. If no type 'n'"<<endl;
