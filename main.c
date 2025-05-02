@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int a=0;
-    char ui;
+    char ui; 
     cout<<"Think a number from 1 to 15"<<endl;
     cout<<"Check if your number belongs to this [1,3,5,7,9,11,13,15] ?"<<endl; 
     cout<<"If yes type 'y'. If no type 'n'"<<endl;
